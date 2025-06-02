@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Gustavo Vieira, tenho 15 anos e sou natural de São Paulo. Atualmente, curso técnico em informática para internet pela Escola Técnica Estadual de Ribeirão Pires.
+Me chamo Gustavo Vieira, tenho 15 anos e sou natural de Ribeirão Pires/SP. Atualmente, curso técnico em informática para internet pela Escola Técnica Estadual de Ribeirão Pires.
 
 ---
 
