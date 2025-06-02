@@ -1,6 +1,6 @@
 ## Gustavo Vieira
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Gustavo Vieira, tenho 15 anos e sou natural de São Paulo. Atualmente, curso técnico em informática para internet pela Escola Técnica Estadual.
 
